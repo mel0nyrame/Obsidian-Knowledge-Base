@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "54a5a7f7938ef25b",
+    "type": "split",
+    "children": [
+      {
+        "id": "66309e2538ff318b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "365a175db9899bbc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4d0f3b4c24534eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d77b31761436f2cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89bea5a84d91b36c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a03fb66a5b22b214",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f17b737942a0330f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "be40740ebacb7a09",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa5b129441dc66c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9e953b379275ab8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/素材/5.树_完整.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "5.树_完整 的反向链接列表"
+            }
+          },
+          {
+            "id": "c1f93804090f2d14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "520cb02c941b7a81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ee57fa4c20605ea7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b6e2cf5d8e005ed0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 696.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian42-brat:BRAT": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "365a175db9899bbc",
+  "lastOpenFiles": [
+    "raw/素材/期末考试题型与要点总结.md",
+    "raw/素材/5.树_完整.md",
+    "raw/素材/5.树_完整.pdf",
+    "raw/素材/4.图_完整.pdf",
+    "raw/素材/3.命题逻辑_完整.pdf",
+    "raw/素材/2.关系_完整.pdf",
+    "raw/素材/1.集合_完整.pdf",
+    "raw/素材/4.图_完整.md",
+    "raw/素材/1.集合_完整.md",
+    "raw/素材/2.关系_完整.md",
+    "raw/素材/2.关系.md",
+    "raw/素材/3.命题逻辑_完整.md",
+    "raw/素材/3.命题逻辑.md",
+    "raw/素材/1.集合.md",
+    "补集.md",
+    "raw/素材/ppt/第35讲 有向树与根树.ppt",
+    "raw/素材/ppt/第34讲 无向树.ppt",
+    "raw/素材/ppt/第33讲 欧拉图与哈密顿图.ppt",
+    "raw/素材/ppt/第32讲 赋权图与最短通路问题.ppt",
+    "raw/素材/ppt/第31讲 图的操作和图的表示.ppt",
+    "wiki/对比/树论算法对比.md",
+    "wiki/对比/图论算法对比.md",
+    "wiki/log.md",
+    "wiki/index.md",
+    "wiki/概念/自然推理.md",
+    "wiki/概念/哈夫曼树.md",
+    "wiki/概念/最小生成树.md",
+    "wiki/概念/主范式.md",
+    "wiki/来源/2026-07-01 图.md",
+    "wiki/概念/真值表方法.md",
+    "wiki/来源/2026-07-01 关系.md",
+    "karpathy的wiki方法论.md",
+    "wiki/来源/2026-07-01 树.md",
+    "wiki/来源/2026-07-01 命题逻辑.md",
+    "wiki/来源/2026-07-01 集合.md",
+    "raw/素材/png/关系性质的判断方法.jpg",
+    "raw/素材/png/集合表示.jpg"
+  ]
+}

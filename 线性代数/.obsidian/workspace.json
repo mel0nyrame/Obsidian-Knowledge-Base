@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "54a5a7f7938ef25b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbc1a20300980564",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cefe34768a226061",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4d0f3b4c24534eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d77b31761436f2cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89bea5a84d91b36c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a03fb66a5b22b214",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f17b737942a0330f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5
+  },
+  "right": {
+    "id": "be40740ebacb7a09",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa5b129441dc66c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9e953b379275ab8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "c1f93804090f2d14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "520cb02c941b7a81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ee57fa4c20605ea7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b6e2cf5d8e005ed0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          },
+          {
+            "id": "a36f1e2470254001",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 496.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian42-brat:BRAT": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "cefe34768a226061",
+  "lastOpenFiles": [
+    "wiki/来源/2026-05-19 第六章 特征值与特征向量.md",
+    "raw/素材/第六章特征值和特征向量.md",
+    "raw/素材/第五章线性方程组.md",
+    "wiki/来源/2026-05-19 第五章 线性方程组解的结构.md",
+    "raw/去年考试题目.md",
+    "raw/去年考试题目答案.md",
+    "raw/素材/第四章向量.md",
+    "wiki/来源/2026-05-19 第四章 向量.md",
+    "raw/素材/第三章矩阵的初等变换与线性方程组.md",
+    "wiki/来源/2026-05-19 第三章 矩阵的初等变换与线性方程组.md",
+    "raw/素材/第二章矩阵.md",
+    "wiki/来源/2026-05-19 第二章 矩阵.md",
+    "raw/素材/第一章行列式.md",
+    "wiki/来源/2026-05-19 第一章 行列式.md",
+    "未命名.md",
+    "wiki/对比/线性方程组解法：克莱默法则 vs 高斯消元.md",
+    "karpathy的wiki方法论.md",
+    "CLAUDE.md",
+    "未命名",
+    "wiki/概念/转置.md",
+    "wiki/概念/初等变换.md",
+    "wiki/概念/极大无关组.md",
+    "wiki/概念/线性表示.md",
+    "wiki/概念/向量空间.md",
+    "wiki/概念/正交.md",
+    "wiki/对比/求逆矩阵：伴随矩阵法 vs 初等变换法.md",
+    "线性代数笔记.pdf",
+    "raw/去年考试题目答案.pdf",
+    "raw/去年考试题目.pdf",
+    "线性代数完整笔记.pdf",
+    "raw/素材/第二章矩阵.pdf",
+    "header.tex",
+    "wiki/index.md",
+    "线性代数完整笔记_tmp.html",
+    "wiki/概念",
+    "wiki/来源"
+  ]
+}
