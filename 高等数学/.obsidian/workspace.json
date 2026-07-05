@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "54a5a7f7938ef25b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0cd5d14901488a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "154cdfb79ed41539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/考前速记卡.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "考前速记卡"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4d0f3b4c24534eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d77b31761436f2cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89bea5a84d91b36c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a03fb66a5b22b214",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f17b737942a0330f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "be40740ebacb7a09",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa5b129441dc66c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9e953b379275ab8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/素材/5.多元函数积分学(I)_完整.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "5.多元函数积分学(I)_完整 的反向链接列表"
+            }
+          },
+          {
+            "id": "c1f93804090f2d14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "520cb02c941b7a81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ee57fa4c20605ea7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b6e2cf5d8e005ed0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raw/素材/5.多元函数积分学(I)_完整.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "5.多元函数积分学(I)_完整 的大纲"
+            }
+          },
+          {
+            "id": "a30e5c627bdd2097",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 714.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian42-brat:BRAT": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "154cdfb79ed41539",
+  "lastOpenFiles": [
+    "wiki/ODE速通-4核心题型.md",
+    "wiki/考前速记卡.md",
+    "wiki/来源/2026-07-05-向量与空间解析几何.md",
+    "wiki/概念/傅里叶级数.md",
+    "wiki/概念/函数展开成幂级数.md",
+    "wiki/概念/幂级数与收敛域.md",
+    "wiki/概念/常数项级数敛散性判别.md",
+    "wiki/概念/高斯公式与斯托克斯公式.md",
+    "wiki/概念/格林公式.md",
+    "wiki/概念/对坐标的曲面积分.md",
+    "wiki/概念/对坐标的曲线积分.md",
+    "wiki/概念/重积分的应用.md",
+    "wiki/概念/柱面坐标与球面坐标.md",
+    "wiki/概念/三重积分.md",
+    "wiki/概念/二重积分.md",
+    "wiki/概念/条件极值与拉格朗日乘数法.md",
+    "wiki/概念/方向导数与梯度.md",
+    "wiki/概念/空间曲面切平面与法线.md",
+    "wiki/概念/空间曲线切线与法平面.md",
+    "wiki/概念/二次曲面.md",
+    "wiki/概念/多元函数极值.md",
+    "wiki/概念/隐函数求导.md",
+    "wiki/概念/多元复合函数求导.md",
+    "wiki/概念/偏导数与全微分.md",
+    "wiki/概念/平面与直线.md",
+    "wiki/概念/向量运算.md",
+    "wiki/来源",
+    "wiki/概念",
+    "wiki/对比",
+    "wiki",
+    "raw/素材/img/fig_7_07_general_term.png",
+    "raw/素材/img/fig_7_06_taylor.png",
+    "raw/素材/img/fig_7_05_fourier.png",
+    "raw/素材/img/fig_7_04_radius.png",
+    "raw/素材/img/fig_7_03_alternating.png",
+    "raw/素材/img/fig_7_02_harmonic.png",
+    "raw/素材/img/fig_7_01_geometric.png",
+    "raw/素材/img/fig_6_06_plane_orientation.png",
+    "raw/素材/img/fig_6_05_right_hand.png",
+    "raw/素材/img/fig_6_04_projection_sign.png",
+    "raw/素材/img",
+    "raw/素材/5.树_完整.pdf",
+    "raw/素材/4.图_完整.pdf",
+    "raw/素材/3.命题逻辑_完整.pdf",
+    "raw/素材/2.关系_完整.pdf",
+    "raw/素材/1.集合_完整.pdf"
+  ]
+}
