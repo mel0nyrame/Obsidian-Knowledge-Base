@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c0cd5d14901488a4",
+        "id": "7c7f7ca732370151",
         "type": "tabs",
         "children": [
           {
-            "id": "154cdfb79ed41539",
+            "id": "a002f048d3854e8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/考前速记卡.md",
+                "file": "raw/素材/6.多元函数积分学(II)_完整.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "考前速记卡"
+              "title": "6.多元函数积分学(II)_完整"
             }
           }
         ]
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 714.5
+    "width": 425.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,34 +196,33 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "154cdfb79ed41539",
+  "active": "89bea5a84d91b36c",
   "lastOpenFiles": [
-    "wiki/ODE速通-4核心题型.md",
+    "raw/素材/5.多元函数积分学(I)_完整.md",
+    "raw/素材/4.多元函数微分学的应用_完整.md",
+    "raw/素材/3.多元函数微分学_完整.md",
+    "raw/素材/2.向量与空间解析几何_完整.md",
+    "wiki/概念/对坐标的曲面积分.md",
+    "wiki/概念/常数项级数敛散性判别.md",
+    "raw/素材/2.向量与空间解析几何.md",
+    "raw/素材/1.常微分方程_完整.md",
+    "raw/素材/7.无穷级数_完整.md",
     "wiki/考前速记卡.md",
+    "raw/素材/7.无穷级数.md",
+    "raw/素材/6.多元函数积分学(II)_完整.md",
+    "raw/素材/3.多元函数微分学.md",
+    "raw/素材/1.常微分方程.md",
+    "wiki/ODE速通-4核心题型.md",
     "wiki/来源/2026-07-05-向量与空间解析几何.md",
     "wiki/概念/傅里叶级数.md",
     "wiki/概念/函数展开成幂级数.md",
     "wiki/概念/幂级数与收敛域.md",
-    "wiki/概念/常数项级数敛散性判别.md",
     "wiki/概念/高斯公式与斯托克斯公式.md",
     "wiki/概念/格林公式.md",
-    "wiki/概念/对坐标的曲面积分.md",
     "wiki/概念/对坐标的曲线积分.md",
     "wiki/概念/重积分的应用.md",
     "wiki/概念/柱面坐标与球面坐标.md",
     "wiki/概念/三重积分.md",
-    "wiki/概念/二重积分.md",
-    "wiki/概念/条件极值与拉格朗日乘数法.md",
-    "wiki/概念/方向导数与梯度.md",
-    "wiki/概念/空间曲面切平面与法线.md",
-    "wiki/概念/空间曲线切线与法平面.md",
-    "wiki/概念/二次曲面.md",
-    "wiki/概念/多元函数极值.md",
-    "wiki/概念/隐函数求导.md",
-    "wiki/概念/多元复合函数求导.md",
-    "wiki/概念/偏导数与全微分.md",
-    "wiki/概念/平面与直线.md",
-    "wiki/概念/向量运算.md",
     "wiki/来源",
     "wiki/概念",
     "wiki/对比",
@@ -236,12 +236,6 @@
     "raw/素材/img/fig_7_01_geometric.png",
     "raw/素材/img/fig_6_06_plane_orientation.png",
     "raw/素材/img/fig_6_05_right_hand.png",
-    "raw/素材/img/fig_6_04_projection_sign.png",
-    "raw/素材/img",
-    "raw/素材/5.树_完整.pdf",
-    "raw/素材/4.图_完整.pdf",
-    "raw/素材/3.命题逻辑_完整.pdf",
-    "raw/素材/2.关系_完整.pdf",
-    "raw/素材/1.集合_完整.pdf"
+    "raw/素材/img/fig_6_04_projection_sign.png"
   ]
 }
